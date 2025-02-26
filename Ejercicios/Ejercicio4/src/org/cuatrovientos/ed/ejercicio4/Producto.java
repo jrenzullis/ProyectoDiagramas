@@ -1,7 +1,6 @@
 package org.cuatrovientos.ed.ejercicio4;
 
 public class Producto {
-	class Producto {
 	    private String nombre;
 	    private boolean comprado;
 
@@ -27,4 +26,4 @@ public class Producto {
 	    }
 	}
 
-}
+

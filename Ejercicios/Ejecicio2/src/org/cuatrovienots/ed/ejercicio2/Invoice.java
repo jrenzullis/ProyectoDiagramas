@@ -1,7 +1,10 @@
 package org.cuatrovienots.ed.ejercicio2;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Invoice {
-	class Invoice {
+
 	    private String customer;
 	    private List<Product> products; 
 
@@ -34,8 +37,8 @@ public class Invoice {
 
 	    @Override
 	    public String toString() {
-	        
+			return "";
 	    }
 	}
 
-}
+
